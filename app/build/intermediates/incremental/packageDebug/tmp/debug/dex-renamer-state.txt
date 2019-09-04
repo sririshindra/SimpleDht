@@ -1,0 +1,4 @@
+#Wed Apr 10 21:44:56 EDT 2019
+base.0=/Users/srinivasrishindra/Desktop/CourseWork/Spring_2019/Distributed_Systems/SimpleDht/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex
